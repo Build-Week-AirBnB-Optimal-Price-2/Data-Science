@@ -5,7 +5,7 @@ __license__ : MIT
 __version__ : 1.0
 """
 
-from . import utils 
+# from . import utils 
 from flask import Flask, render_template, request, jsonify
 import pandas as pd
 import pickle
