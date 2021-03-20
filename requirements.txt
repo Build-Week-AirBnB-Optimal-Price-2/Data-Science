@@ -26,7 +26,7 @@ gunicorn==20.0.4
 h5py==2.10.0
 idna==2.9
 itsdangerous==1.1.0
-jinja2==2.11.1
+jinja2==2.11.3
 joblib==0.14.1
 keras-applications==1.0.8
 keras-preprocessing==1.1.0
